@@ -1,6 +1,6 @@
 # PCA-EXP-3-PARALLEL-REDUCTION-USING-UNROLLING-TECHNIQUES AY 23-24
 <h3>AIM: To implement the kernel reduceUnrolling16 and comapare the performance of kernal reduceUnrolling16 with kernal reduceUnrolling8 using nvprof.</h3>
-<h3> NAME:SNEHA HV R</h3>
+<h3> NAME:SNEHA HV </h3>
 <h3>REGISTER NO:212222040157</h3>
 <h3>EX. NO:3</h3>
 <h3>DATE:04-04-2024</h3>
